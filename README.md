@@ -15,3 +15,12 @@ Líderes só são necessários diantes de desafios.
 ## Hands, Tools, and Work
 Erro comum: associar liderança como habilitades pessoal, ferramentas, posições de autoridade.
 Objetivo separar as habilidades pessoais e ferramentas do real trabalho que precisa ser feito.
+
+"Mãos" referem-se às capacidades pessoais. "Ferramentas" referem-se a poderes, como autoridade e influência.
+
+## The Work Defines the Craft
+
+Liderança pode ser comparada a carpintaria: Ótimas mãos e excelentes ferramentas não definem a carpintaria, mas o trabalho realizado sim.
+Foco no trabalho a ser feito e nos desafios a serem vencidos.
+
+
