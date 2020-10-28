@@ -19,8 +19,32 @@ Objetivo separar as habilidades pessoais e ferramentas do real trabalho que prec
 "Mãos" referem-se às capacidades pessoais. "Ferramentas" referem-se a poderes, como autoridade e influência.
 
 ## The Work Defines the Craft
-
 Liderança pode ser comparada a carpintaria: Ótimas mãos e excelentes ferramentas não definem a carpintaria, mas o trabalho realizado sim.
 Foco no trabalho a ser feito e nos desafios a serem vencidos.
+
+
+## The Diagnostic Indicators of Technical Problems
+Problemas como transito, ou como se vestir dependendo do clima ou como e o que comer são problemas técnicos e parte do nosso dia a dia. Como sociedade, já temos o know-how de como resolvê-los.
+Case: Caixa de cereal no café da manhã. Para estar ali demoraram muitos anos e vários processos que foram feitos e aprimorados desde agricultura, industrialização, logística e comércio.
+
+## Leadership and Authority
+"Você não precisa de liderança para fazer o que vc já sabe como fazer"
+
+
+## The Diagnostic Indicators of Adaptive Challenges
+Desafios adaptatativos são problemas, situações ou oportunidades que exige que o organismo cresça a partir de sua antiga capacidade e desenvolva uma nova capacidade.
+
+## Respect for the Pains of Change
+Pessoas gostam de mudança quando entendem que será uma mudança benéfica. Ex: Ninguém devolve um bilhete premiado da loteria. O que as pessoas não gostam é da perda que geralmente acompamnha o processo de mudança, por isso resistem a ela.
+Escolhas difíceis exigem sacrifícios. Liderança está muito presente quando não há escolhas ou uma solução fácil.
+
+
+![Dores de mudanças](https://courses.edx.org/assets/courseware/v1/1fc59e181fde61fd68131ce8ddab016a/asset-v1:HarvardX+LEAD1x+1T2020a+type@asset+block/7-Cultural_DNA_FINAL.png)
+
+## Leadership through Adaptive Work
+Quais perdas são aceitáveis?
+Quais capacidades precisam ser desenvolvidas?
+
+Liderança é a prática de trabalho adaptativo, criando com as pessoas uma nova capacidade de enfrentar os desafios que eles enfrentam para prosperar em nosso mundo em mudança e desafiador.
 
 
