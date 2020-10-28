@@ -39,7 +39,7 @@ Pessoas gostam de mudança quando entendem que será uma mudança benéfica. Ex:
 Escolhas difíceis exigem sacrifícios. Liderança está muito presente quando não há escolhas ou uma solução fácil.
 
 
-![Dores de mudanças](https://courses.edx.org/assets/courseware/v1/1fc59e181fde61fd68131ce8ddab016a/asset-v1:HarvardX+LEAD1x+1T2020a+type@asset+block/7-Cultural_DNA_FINAL.png)
+![Dores de mudanças](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/7-Cultural_DNA_FINAL.png)
 
 ## Leadership through Adaptive Work
 Quais perdas são aceitáveis?
@@ -47,4 +47,4 @@ Quais capacidades precisam ser desenvolvidas?
 
 Liderança é a prática de trabalho adaptativo, criando com as pessoas uma nova capacidade de enfrentar os desafios que eles enfrentam para prosperar em nosso mundo em mudança e desafiador.
 
-
+![Tipos de trabalho](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/types-of-work.png)
