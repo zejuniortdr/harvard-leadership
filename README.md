@@ -73,3 +73,39 @@ Abordagem de um problema com somente uma frente, teremos uma solução parcial.
 
 ## LEAD WITH, BEYOND, AND WITHOUT AUTHORITY
 ![Como liderar](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/lead-with-beyond-and-without-authority.png)
+
+
+## The Roots of Authority
+> Nascemos para depender dos outros e para confiar a eles nosso bem-estar em uma aliança natural inconsciente ou contrato social em que damos aos outros poder sobre nossos corpos e decisões diárias com a expectativa que eles irão fornecer para nós cuidados, integridade e competência. Esta dependência natural apropriada de outros é eu acho que a base evolutiva para autoridade.
+
+Autoridade é algo que envolve sociedade e não é possível ter autoridade sozinho.
+
+## The Services of Authority: Direction, Protection, and Order
+
+![Authority Relationship Diagram](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/10-Authority_Relationship_FINAL.png)
+
+Todo relacionamento de autoridade, em algum grau, fornece direção, proteção e ordem.
+
+
+
+## Authority and Leadership
+Liderança é comparada a posições de poder, com todas as ferramentas que a autoridade trás e a habilidade de ganhar tais ferramentas.
+Assosciar liderança com autoridade oculta aspectos chaves de ambos os termos, quem pode exercitar e os processos naturias de autoridade.
+
+
+## Formal Authority
+Todo trabalho é atribuido com um poder para executá-lo e recursos para tal.
+Case: Carteiro. Ele tem privilégios para manuesar as corresponências. Se por acaso começar a ler ou perder as correspondências, perderá a configuança que lhe foi atribuida, e consequentemente o trabalho.
+
+
+## Informal Authority
+Autoridade informar é o que é concedido sem a necessidade de uma autoridade formal.
+Case: Gandhi, Luther King. Ambos tinham autoridade formal em seus pequenos grupos, mas milhões de pessoas leh concederam a autoridade informal.
+
+Já a autoridade formal, requer algum nível de autoridade informal. Apesar de terem formalmente definido na descrição do cargo tal autoridade, requer a parte informal de seus colegas, seniores, pares e juniores, para garantir a confiança, respeito, admiração ou até mesmo reconhecimento.
+
+
+## Changes to Authority Over Time
+A autoridade informal muitas vezes pode levar a uma autoridade formal maior.
+A autoridade informal está em fluxo constante.
+De certa forma, a autoridade informal pode ser mais poderosa do que a autoridade formal porque permite que você se estenda além dos limites da descrição do trabalho.
