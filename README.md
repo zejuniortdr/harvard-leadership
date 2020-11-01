@@ -154,7 +154,7 @@ Sul: Dentro da organização onde de fato há autoridade
 
 
 Exemplo prático deste mapa: Conselho das Nações Unidas
-![UN](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/un.png)
+![UN](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/un.jpg)
 
 
 ## The Components of Trust
