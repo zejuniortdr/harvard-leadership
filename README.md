@@ -71,7 +71,7 @@ Lidernaça é como distinguimos os problemas técnicos e adaptativos.
 Abordagem de um problema com somente uma frente, teremos uma solução parcial.
 
 
-## LEAD WITH, BEYOND, AND WITHOUT AUTHORITY
+## Lead with, beyond, and without authority
 ![Como liderar](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/lead-with-beyond-and-without-authority.png)
 
 
@@ -109,3 +109,99 @@ Já a autoridade formal, requer algum nível de autoridade informal. Apesar de t
 A autoridade informal muitas vezes pode levar a uma autoridade formal maior.
 A autoridade informal está em fluxo constante.
 De certa forma, a autoridade informal pode ser mais poderosa do que a autoridade formal porque permite que você se estenda além dos limites da descrição do trabalho.
+
+
+## Advantages of Leading Beyond and Without Authority
+É possível liderar sem autoridade.
+Exemplo da rosa dos ventos:
+Norte: Liderança repercute para posições superioes
+Leste e Oeste: Rompe silos dos pares e/ou entre outras organizações
+Sul: Dentro da organização onde de fato há autoridade
+
+
+## Stakeholder Maps
+
+### Organization Chart
+![Organization Chart](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/org-chart.png)
+
+- Relacionamentos formais da organização;
+- Itens no topo tem mais poder ou autoridade;
+- Linhas contínuas definem quem responde diretamente para quem;
+- Relacionamentos indiretos são descritos com linhas tracejadas;
+
+
+### Swim-Lane Diagram
+![Swim-Lane Diagram](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/swin-lane-diagram.png)
+- É chamado de diagrama de raia porque cada função recebe uma coluna, uma raia.
+- Um processo de várias etapas passa de uma faixa para outra como parte do fluxo de trabalho compartilhado.
+- O trabalho técnico frequentemente depende desse tipo de mapeamento para esclarecer as etapas e propriedade.
+- Pode ser altamente complexo, exigindo contribuições de muitas partes interessadas.
+
+
+### Stakeholder Map
+![Stakeholder Map](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/stakeholdermap.png)
+- Utilizado no trabalho adaptativo;
+- Desafio é representado com o asterisco no centro da "mesa de jantar";
+- Stakeholders são representados pelos lugares na mesa;
+- Constituintes são as partes representadas pelos stakeholders, são os pequenos circulos externos a mesa, relaciondos ao stakeholders;
+- Facções = Stakeholders + Constituintes
+
+#### Depois de definido o mapa, pode-se explorar as questões:
+- Como cada grupo vê o trabalho a ser feito?
+- Quais são os valores de cada facção?
+- Quais são suas perdas potenciais?
+- Quais são suas lealdades?
+
+
+Exemplo prático deste mapa: Conselho das Nações Unidas
+![UN](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/un.png)
+
+
+## The Components of Trust
+Confiaça é o pivô central de qualquer relacionamento e está divida em dois grandes componentes chaves: valores e competência.
+Exemplo médico:
+- Ninguém quer um médico com excelentes valores sem a capacidade de performar uma cirurgia;
+- Ninguem quer um médico extramente capaz que realiza inúmeras cirurgias apenas para ganhar dinheiro;
+
+
+## Conter-dependence
+A contra-dependência e a independência podem parecer compartilhar características-chave, a contra-dependência é uma reação de oposição automática às figuras de autoridade (por ter o hábito de desconfiar ou uma necessidade feroz de afirmar a independência). Freqüentemente, resulta em dificuldade de trabalhar com eficácia em relacionamentos de autoridade.
+
+A contra-dependência é freqüentemente aprendida e o resultado de experiências individuais ou compartilhadas.
+
+## Reshaping Expectations
+
+Pessoas terão expectativas que você não pode atender e nem mesmo deveria tentar atender.
+Isso significa que você precisará transformar as expectativas da autoridade (suas e delas) para que elas reflitam melhor os desafios que você será solicitado para ajudar as pessoas a superar.
+
+## Estratégias para renovar a confiança
+
+### Modelo de mudança
+Seja um exemplo para os outros, envolvendo-se ativamente em um novo aprendizado. Isso não significa que você precisa ser perfeito. Na verdade, ser honesto com os outros sobre as dificuldades que você encontra pode ser igualmente poderoso.
+
+### Mantenha o foco no contexto
+Em meio à mudança, é fácil perder de vista as condições e objetivos que levaram à necessidade de trabalho adaptativo. Lembrar os outros do quê e por quê pode ajudá-los a se reconectar e se comprometer novamente.
+
+### Reconheça sua contribuição para o problema
+Comece reconhecendo o papel que você desempenhou, uma estratégia às vezes chamada de "ser o dono da bagunça".
+
+### Gerencie as expectativas com candor
+Seja honesto ao comunicar resultados e perdas potenciais. Isso inclui estar disposto a dizer: "Não sei".
+
+### Não aceite ou diminua perdas
+As pessoas não temem mudanças; eles temem a perda. Reconheça publicamente essas perdas reais e seja honesto sobre os sacrifícios que as pessoas devem fazer como parte do trabalho adaptativo.
+
+### Encontre a raiva com a paciência e a compreensão
+Use seus esforços de diagnóstico para ver além da raiva, para o contexto e a perspectiva representada. Por que essa pessoa se sente assim? Em vez de enfrentar a raiva com raiva, tente usar a interação como uma oportunidade para entender melhor as pressões que atuam sobre as pessoas dentro do sistema.
+
+### Promover a aprendizagem pública
+O trabalho adaptativo requer novo aprendizado. Em vez de permitir que as partes interessadas e grupos lutem em particular, crie as condições para ajudar as pessoas a aprenderem umas com as outras.
+
+### Envolva seus aliados
+Os aliados são um recurso, mas não basta simplesmente identificá-los. Envolva os aliados (e suas facções) no trabalho a ser feito para aproveitar suas fontes de confiança e fortalecer a rede de laços de confiança.
+
+### Mantenha-se perto da oposição
+Faça da oposição uma parte da conversa, envolvendo os principais interessados ​​regularmente. Incluir todas as perspectivas contribui para uma visão mais completa e honesta do trabalho a ser feito. Mostre a eles que você aprecia as perdas que está pedindo que aceitem.
+
+### Ouça
+Ouça os participantes de todo o sistema e procure compreender o máximo de perspectivas possível. Lembre-se de que o trabalho de diagnóstico está em andamento. Envolva feedback regularmente e sinalize que você valoriza as opiniões e experiências dos outros.
