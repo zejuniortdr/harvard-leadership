@@ -205,3 +205,104 @@ Faça da oposição uma parte da conversa, envolvendo os principais interessados
 
 ### Ouça
 Ouça os participantes de todo o sistema e procure compreender o máximo de perspectivas possível. Lembre-se de que o trabalho de diagnóstico está em andamento. Envolva feedback regularmente e sinalize que você valoriza as opiniões e experiências dos outros.
+
+
+## Reacting to Conflict
+
+### Reações Comuns ao Conflito
+
+1. Inação como ação
+> Os sistemas geralmente recompensam a inação, o que ajuda a manter o status quo. Manter o conflito oculto pode ser o caminho mais fácil, mas deixa a organização identificar e responder às perdas potenciais que acompanham a mudança, sem mencionar o novo aprendizado que pode ser produzido orquestrando bem as perspectivas conflitantes.
+
+2. Apelo à autoridade
+> Em meio ao conflito, buscamos aqueles com autoridade formal para resolver a ordem, mas essas ações para restabelecer a calma podem prejudicar a capacidade de adaptação da organização.
+
+3. "Fight or flight"
+> Como a resposta aguda ao estresse do corpo humano, as partes de um sistema podem responder ao conflito partindo para a ofensiva (como culpar os outros) ou saindo de seu caminho para evitá-lo.
+
+
+## A Process for Mobilizing Learning
+
+### Um processo para mobilizar a aprendizagem
+
+#### Faça seu dever de casa
+Prepare-se antes de reunir as facções. Você entende as perspectivas deles? O que eles têm a perder? Que aprendizado, ou seja, mudanças nas apostas e na perspectiva, precisa ocorrer? Falar com as pessoas separadamente também pode fornecer uma visão inestimável e ajudá-lo a obter autoridade informal.
+
+#### Reúna todas as visualizações
+Deixe cada facção falar por si mesma. Como eles veem o trabalho de resolver o desafio adaptativo compartilhado? Quais são as suas perspectivas e compromissos e em que medida eles também reconhecem a necessidade de mudar?
+
+#### Criar, compartilhar e aplicar as regras fundamentais
+Estabelecer ou solicitar regras básicas claras e consistentes pode ajudar a despersonalizar o processo e manter o trabalho no centro. Tente estabelecer regras e normas para o grupo desde o início. Por exemplo, quais informações são confidenciais? Quem define a agenda e como?
+
+#### Conflito de orquestrar
+Compartilhe as perspectivas, valores e competências concorrentes. Conforme as perspectivas emergem, as facções reconhecerão os conflitos e o calor aumentará. Parte de ser um orquestrador envolve reconhecer quando os participantes estão evitando conflitos. Procure as pistas. Os indivíduos estão minimizando as diferenças entre as facções? Eles estão ignorando o problema inteiramente usando estratégias comuns de evitação de trabalho, como culpar ou usar o bode expiatório? Lembre aos participantes que é sua função expor e discutir essas tensões.
+
+#### Promova a honestidade sobre as perdas
+Em vez de minimizar perdas, ajude o grupo a reconhecer e refletir sobre o que cada facção tem a perder e quais podem ser as implicações para seus vários constituintes. Como os constituintes podem reagir?
+
+#### Experimentar
+Como você enfrentará o desafio? Gere vários experimentos para testar soluções potenciais. Lembre-se de construir um consenso sobre o que será testado e não se apegue muito a nenhuma ideia ou solução. O objetivo é aprender o máximo possível, e um experimento fracassado pode ensinar muito a você.
+
+#### Poder da consultoria de pares
+Aprendemos melhor juntos. Incentive as pessoas a buscarem o conselho de colegas durante o processo "Get on the Balcony". Ao modelar esse comportamento, você ajuda a estabelecer novas normas de colaboração que valorizam o trabalho de diagnóstico e a ação igualmente.
+
+## Mobilizando a aprendizagem multipartidária
+A maioria das organizações é alérgica a conflitos, mas o conflito é um dos motores da inovação.
+As pessoas não aprendem olhando no espelho, Eles aprendem adotando um ponto de vista diferente.
+
+## Increasing the Heat
+
+Liderar um trabalho adaptativo - mobilizar as pessoas para enfrentar um problema difícil e aprender com suas diferenças para encontrar novas soluções - é como cozinhar em uma panela de pressão. Se você mantiver o fogo muito baixo, nada vai cozinhar. Por outro lado, se você aumentar muito o aquecimento, as pessoas não conseguirão tolerar os níveis.
+
+![Disequilibrium](https://github.com/zejuniortdr/harvard-leadership/blob/main/imgs/12-Managing_Disequilibrium_3_FINAL.png)
+
+### Estratégias para aumentar o calor
+
+#### Direcione o foco da atenção para as questões difíceis
+Imagine estar em uma reunião em que a decisão ou o tópico mais importante seja adiado ou ignorado. Esse hábito de ignorar as conversas difíceis é muito comum.
+
+#### Conflitos de superfície
+Resista à tentação de esconder ou minimizar o desacordo. Revelar diferentes perspectivas é uma parte essencial da compreensão da distribuição do trabalho em torno das diferentes partes interessadas - os diferentes ajustes e novas formas de pensar ou se comportar que cada parte pode precisar fazer.
+
+#### Permitir declarações provocativas
+A linguagem pode ser uma ferramenta poderosa para controlar o calor. Não tenha medo de declarações que estimulem respostas fortes.
+
+#### Conheça e use a dinâmica da sala
+Em vez de ignorar ou agir com medo do estresse potencial que pode surgir na sala, use-o a seu favor. Isso começa ouvindo e observando. Se certas partes parecerem especialmente em desacordo, use isso para destacar as questões centrais.
+
+#### Exceder níveis de conforto
+Aumentar o aquecimento significa desafiar os níveis de conforto individual. Isso é especialmente verdadeiro para a alocação de responsabilidades. Incentive os outros a não jogarem pelo seguro quando se trata de assumir sua parte no trabalho a ser feito.
+
+
+### Estratégias para diminuir o calor
+
+#### Redirecione o foco para o trabalho técnico
+As situações mais desafiadoras são uma mistura de problemas técnicos e desafios adaptativos, portanto, você pode reduzir o calor voltando o foco de atenção para os componentes técnicos da situação do problema.
+
+#### Assuma responsabilidade pelas questões difíceis
+Se você tem uma posição de autoridade, pode assumir a responsabilidade de resolver a situação e ganhar tempo para as pessoas se acostumarem com as questões difíceis (e tempo para você encontrar uma nova abordagem para envolvê-las em seu papel de enfrentar o desafio).
+
+#### Dividir, distribuir e caminhar o trabalho
+As pessoas precisam de tempo para fazer o trabalho adaptativo - tempo para aceitar emocionalmente as perdas que podem precisar sustentar e tempo para experimentar por tentativa e erro para encontrar uma adaptação inovadora e bem-sucedida. Portanto, dividir o trabalho em partes menores, distribuí-lo de maneira diferente de acordo com a capacidade de cada parte e controlar a taxa de mudança são maneiras de reduzir o nível de estresse.
+
+#### Pause e faça intervalos
+O trabalho adaptativo é desgastante porque o trabalho emocional e inovador é estressante. Como consequência, as pessoas precisam de pausas e descanso. Há uma razão pela qual muitas tradições religiosas têm um meio de fazer uma pausa e refletir por meio de práticas diárias ou um sábado semanal. Como é dito na cirurgia, você se move mais rápido movendo-se mais devagar e com mais cuidado.
+
+#### Crie mais estruturas e processos para trabalhar no desafio
+As pessoas geralmente se sentem menos estressadas quando se sentem orientadas em uma situação estressante para seu papel ou trabalho, portanto, criar mais estruturas e processos para a solução de problemas acalmará as pessoas.
+
+## Hold Steady
+A liderança requer a capacidade de se manter firme. Manter-se firme significa que você é capaz de se controlar, ouvir, ficar quieto e deliberar, e espere quando houver a abertura certa e pela resposta certa.
+Às vezes você tem que esperar 10 minutos, às vezes você tem que esperar 10 meses, ou talvez até 10 anos.
+Mas essa capacidade de se manter firme, esse tipo de autodisciplina deficar de olho no que realmente importa é absolutamente essencial.
+
+## Allies and Confidants
+Aliados são diferentes de confidentes. Aliados são aqueles que estão no mesmo escopo e que podem somar e juntos tornar o líder mais forte.
+Confidentes são pessoas fora do escopo, alguém externo, que o líder possa trocar experiências, sem receios e de fato colher ajuda, pois o confidente não se importa com as questões discutidas, mas sim com a pessoa que depositou a confiança nele.
+
+Um confidente é:
+- Alguém fora da organização / sistema
+- Alguém em quem você pode confiar
+- Alguém que lhe dará um feedback honesto
+- Alguém que será paciente com você
+- Alguém que vai te ajudar a te recompor
